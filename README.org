@@ -1,0 +1,5 @@
+* Block all the news
+
+This repo contains lists of news websites meant to be used as block-lists. It can be used in a hosts file, browser extensions such as [[https://ublockorigin.com][ublock origin]] or in applications such as pi-hole or dnsmasq.
+
+My intention is for people to be free from the toxic, negative and irrelevant information that constantly preys upon their time and attention and ruins their mental health.
