@@ -25,12 +25,14 @@ apnews.com
 argumenti.ru
 arynews.tv
 asianetnews.com
+assignedmedia.org
 athirvu.com
 augustachronicle.com
 australianherald.co.au
 australianherald.com
 australiantimes.com.au
 axios.com
+azcentral.com
 babylonbee.com
 bangaloremirror.com
 banned.video
@@ -69,7 +71,9 @@ chennaimemes.in
 chicagotribune.com
 chinadaily.com.cn
 chowk.com
+chron.com
 citizenmatters.in
+cleveland.com
 click2houston.com
 cnbc.com
 cnn.com
@@ -91,6 +95,7 @@ dailytelegraph.co.nz
 dailythanthi.com
 dailytrust.com
 dailywire.com
+dallasnews.com
 dawn.com
 dazeddigital.com
 deccanchronicle.com
@@ -145,6 +150,7 @@ fox7austin.com
 foxbusiness.com
 foxla.com
 foxnews.com
+freep.com
 freepressjournal.in
 ft.com
 gazeta-pravda.ru
@@ -188,6 +194,7 @@ iz.ru
 izvestia.ru
 jagran.com
 jansatta.com
+kansascity.com
 kathiravan.com
 kdvr.com
 keralakaumudi.com
@@ -217,6 +224,7 @@ mediabiasfactcheck.com
 medicinehatnews.com
 meduza.io
 mensxp.com
+mercurynews.com
 milligazette.com
 mirage.news
 miragenews.com
@@ -259,6 +267,7 @@ news.yahoo.com
 nextnewsnetwork.com
 ng.ru
 nhgazette.com
+nj.com
 noemamag.com
 novayagazeta.eu
 novayagazeta.ru
@@ -277,6 +286,7 @@ odishatv.in
 oneindia.com
 opera.news
 opindia.com
+oregonlive.com
 ottawasun.ca
 ottawasun.com
 outfrontmagazine.com
@@ -286,6 +296,7 @@ patriots.win
 pehchanfaridabad.in
 perthnow.com.au
 philadelphiainquirer.com
+philly.com
 pinknews.co.uk
 pinknews.uk
 polimernews.com
@@ -307,13 +318,17 @@ rg.ru
 rollingstone.com
 rt.com
 ruralindiaonline.org
+sacbee.com
 samayam.com
+sandiegouniontribune.com
 savukkuonline.com
 scmp.com
 scoopwhoop.com
 screenindia.com
 scroll.in
+seattletimes.com
 seithy.com
+sfgate.com
 smh.com.au
 smobserved.com
 snopes.com
@@ -321,6 +336,7 @@ sofmag.com
 spbvedomosti.ru
 spectator.co.uk
 startribune.com
+stltoday.com
 sumanasa.com
 swarajyamag.com
 sydneynewstoday.com
@@ -394,6 +410,7 @@ torontosun.com
 tribuneindia.com
 trud.ru
 tv9marathi.com
+twincities.com
 udayavani.com
 unscripted.news
 usatoday.com
