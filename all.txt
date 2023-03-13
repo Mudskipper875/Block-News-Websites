@@ -1,3 +1,5 @@
+20minutes.com
+20minutes.fr
 4tamilmedia.com
 5280.com
 7news.au
@@ -16,6 +18,7 @@ aif.ru
 alicenow.com.au
 alicespringsnews.com.au
 aljazeera.com
+alternatives-economiques.fr
 altnews.in
 amarujala.com
 americanisraelite.com
@@ -24,6 +27,7 @@ aninews.in
 apnews.com
 argumenti.ru
 arynews.tv
+asahi.com
 asianetnews.com
 assignedmedia.org
 athirvu.com
@@ -46,6 +50,7 @@ bbcfrench.com
 bbc.in
 bbc.jp
 behindwoods.com
+benzinga.com
 bharatprahari.in
 bhaskar.com
 bignewsnetwork.com
@@ -57,6 +62,7 @@ boulderweekly.com
 bqprime.com
 breitbart.com
 businessinsider.in
+businesslend.com
 business-standard.com
 buzzfeed.com
 buzzfeednews.com
@@ -78,6 +84,7 @@ click2houston.com
 cnbc.com
 cnn.com
 coloradodaily.com
+connexionfrance.com
 countercurrents.org
 courant.com
 couriermail.com.au
@@ -104,6 +111,9 @@ deepika.com
 denver7.com
 denvernorthstar.com
 denverpost.com
+derstandard.at
+derstandard.com
+derstandard.de
 deshtv.in
 detroitnews.com
 dinakaran.com
@@ -112,6 +122,7 @@ dinamani.com
 dinasudar.com
 divyabhaskar.co.in
 divyabhaskar.com
+dnaindia.com
 economictimes.com
 economist.com
 economist.co.uk
@@ -122,8 +133,10 @@ edtimes.in
 eisamay.com
 entrepreneur.com
 epaper.pk
+estrepublicain.fr
 etimes.in
 etprime.com
+euronews.com
 express.co.uk
 express.pk
 fair.org
@@ -154,6 +167,7 @@ freep.com
 freepressjournal.in
 ft.com
 gazeta-pravda.ru
+geo.tv
 globalnews.ca
 goodreturns.in
 gq.com
@@ -171,6 +185,7 @@ homegrown.co.in
 hudsonvalley360.com
 huffingtonpost.com
 huffpost.com
+humanite.fr
 iamgujarat.com
 idiva.com
 in4net.com
@@ -202,18 +217,35 @@ knnindia.co.in
 kommersant.ru
 kp.ru
 ktvu.com
+la-croix.com
+la-croix.fr
+ladepeche.fr
 lahoreherald.com
 lahorenews.tv
 lankasri.com
+laprovence.com
+laprovence.fr
+latestly.com
 latimes.com
+lavoixdunord.com
+lavoixdunord.fr
 lawweekcolorado.com
+lefigaro.fr
+lemonde.fr
 lenta.ru
+leparisien.fr
+lequipe.fr
+lesechos.com
+lesechos.fr
 lethbridgeherald.com
 lgz.ru
+liberation.fr
 liveindia.live
 livemint.com
 lokprabha.com
 loksatta.com
+lopinion.com
+lopinion.fr
 maalaimalar.com
 madhyamam.com
 maharashtratimes.com
@@ -231,6 +263,8 @@ miragenews.com
 mirror.co.uk
 mirror.uk
 misskyra.com
+monde-diplomatique.fr
+moneycontrol.com
 moneylife.in
 mospravda.ru
 msnbc.com
@@ -267,7 +301,9 @@ news.yahoo.com
 nextnewsnetwork.com
 ng.ru
 nhgazette.com
+nicematin.com
 nj.com
+nme.com
 noemamag.com
 novayagazeta.eu
 novayagazeta.ru
@@ -289,6 +325,10 @@ opindia.com
 oregonlive.com
 ottawasun.ca
 ottawasun.com
+ouest-france.com
+ouestfrance.com
+ouest-france.fr
+ouestfrance.fr
 outfrontmagazine.com
 outlookindia.com
 pagesix.com
@@ -337,6 +377,8 @@ spbvedomosti.ru
 spectator.co.uk
 startribune.com
 stltoday.com
+sudouest.com
+sudouest.fr
 sumanasa.com
 swarajyamag.com
 sydneynewstoday.com
@@ -372,6 +414,8 @@ thehitavada.com
 theindependent.com
 thejasnews.com
 thekarmanews.com
+thelocal.com
+thelocal.fr
 thelogicalindian.com
 themoscowtimes.com
 thenewdaily.com.au
